@@ -18,7 +18,7 @@ Este proyecto es una implementación de un foro desarrollado con Java y Spring B
 - Java 17.
 - Spring Boot 3, Spring Data JPA, Spring Security, Spring Validation.
 - PostgreSQL.
-- 
+  
 # Endpoints
 
 # Tópicos
